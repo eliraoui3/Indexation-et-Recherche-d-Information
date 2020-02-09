@@ -6,6 +6,6 @@ Email: eliraoui3@gmail.com
 - J'ai utilisé wordnet pour prende la première synonyme parce que c'est le plus similaire a celle de requete.
 - j'ai réaliser une interface qui contient une ENTRER pour récupérer la requete et une FRAME pour afficher les résultats
 - j'ai utilisé une MENU qui contient trois taches la premiere "COMMENCER" pour executer le programme et "RENETIALISER" pour vider toute les champs et "QUITTER" pour quitter l'interface.
-- De dans j'ai travallé avec deux botton "QUIT" et "SEARCH".
+- De dans j'ai utilisé deux botton "QUIT" et "SEARCH".
 
 Finalement merci pour votre temps,j'éspère que j'ai réalisé une bon travaille .
